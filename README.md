@@ -19,8 +19,8 @@
 
 | Project | Type | Description |
 |---------|------|-------------|
-| **[Linked Paper](https://github.com/cutehammond772/linked-paper-frontend)** | Web Service | ai-powered paper searching service with semantic words & graph view. |
-| **[next-loader](https://github.com/cutehammond772/next-loader)** | Library | declarative resource loader for next.js. |
+| **[Linked Paper](https://github.com/SWM-Thlee)** | Web Service | ai-powered paper searching service with semantic words & graph view. |
+| **[next-loader](https://github.com/h1ylabs/next-loader)** | Library | declarative resource loader for next.js. |
 | **[cutehammond.dev](https://cutehammond.dev)** | Blog | gitHub-based personal blog. |
 
 ## PS
