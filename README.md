@@ -21,7 +21,7 @@
 |---------|------|-------------|
 | **[Linked Paper](https://github.com/SWM-Thlee)** | Web Service | ai-powered paper searching service with semantic words & graph view. |
 | **[next-loader](https://github.com/h1ylabs/next-loader)** | Library | declarative resource loader for next.js. |
-| **[cutehammond.dev](https://cutehammond.dev)** | Blog | gitHub-based personal blog. |
+| **[cutehammond.dev](https://cutehammond.dev)** | Blog | github-based personal blog. |
 
 ## PS
 
