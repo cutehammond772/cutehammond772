@@ -1,7 +1,7 @@
 ## Profile
 
 - **Name**: Jungheon Lee
-- **Major**: Computer Engineering at Hongik Univ. (2020.03 - 2025.02)
+- **Major**: Computer Engineering at Hongik Univ. (2020.03 - 2025.02, GPA 4.27 / 4.5)
   
 ## Skills
 
@@ -23,6 +23,6 @@
 | **[next-loader](https://github.com/h1ylabs/next-loader)** | Library | declarative resource loader for next.js. |
 | **[cutehammond.dev](https://cutehammond.dev)** | Blog | github-based personal blog. |
 
-## PS
+## Problem Solving
 
 ![cutehammond's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=pcmaster0228)
