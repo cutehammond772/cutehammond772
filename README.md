@@ -1,8 +1,8 @@
 ## Profile
 
-- **Name**: Jungheon Lee
+- **Name**: Jungheon Lee (이정헌)
 - **Major**: Computer Engineering at Hongik Univ. (2020.03 - 2025.02, GPA 4.27 / 4.5)
-  
+    
 ## Skills
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -17,11 +17,11 @@
 
 ## Projects
 
-| Project | Type | Description |
-|---------|------|-------------|
-| **[Linked Paper](https://github.com/SWM-Thlee)** | Web Service | ai-powered paper searching service with semantic words & graph view. |
-| **[next-loader](https://github.com/h1ylabs/next-loader)** | Library | declarative resource loader for next.js. |
-| **[cutehammond.dev](https://cutehammond.dev)** | Blog | github-based personal blog. |
+| Project | Type | Contribution | Description |
+|---------|------|--------------|-------------|
+| **[Linked Paper](https://github.com/SWM-Thlee)** | Web Service | Front-End | ai-powered paper searching service with semantic words & graph view. |
+| **[next-loader](https://github.com/h1ylabs/next-loader)** | Library | Personal | declarative resource loader for next.js. |
+| **[cutehammond.dev](https://cutehammond.dev)** | Blog | Personal | github-based personal blog. |
 
 ## Problem Solving
 
