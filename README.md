@@ -19,7 +19,7 @@
 
 | Project | Type | Contribution | Description |
 |---------|------|--------------|-------------|
-| **[Linked Paper](https://github.com/SWM-Thlee)** | Web Service | Front-End | ai-powered paper searching service with semantic words & graph view. |
+| **[Linked Paper](https://github.com/SWM-Thlee)** | Web | Front-End | ai-powered paper searching service with semantic words & graph view. |
 | **[next-loader](https://github.com/h1ylabs/next-loader)** | Library | Personal | declarative resource loader for next.js. |
 | **[cutehammond.dev](https://cutehammond.dev)** | Blog | Personal | github-based personal blog. |
 
