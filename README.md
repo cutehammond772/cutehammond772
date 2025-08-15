@@ -13,13 +13,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cutehammond772/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cutehammond772@gmail.com)
-[![Blog](https://img.shields.io/badge/blog-FF8800?style=for-the-badge&logoColor=white)](https://cutehammond.dev/)
+[![Resume](https://img.shields.io/badge/resume-FF8800?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/14H5SO7TkYilyitdoYhPMohNb7sGHotq2/view?usp=sharing)
 
 ## Projects
 
 | Project | Type | Contribution | Description |
 |---------|------|--------------|-------------|
-| **[Linked Paper](https://github.com/SWM-Thlee)** | Web | Front-End | ai-powered paper searching service with semantic words & graph view. |
+| **[Linked Paper](https://github.com/SWM-Thlee)** | Web | FE | ai-powered paper searching service with semantic words & graph view. |
 | **[next-loader](https://github.com/h1ylabs/next-loader)** | Library | Personal | declarative resource loader for next.js. |
 | **[cutehammond.dev](https://cutehammond.dev)** | Blog | Personal | github-based personal blog. |
 
