@@ -13,7 +13,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cutehammond772/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cutehammond772@gmail.com)
-[![Resume](https://img.shields.io/badge/resume-FF8800?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/14H5SO7TkYilyitdoYhPMohNb7sGHotq2/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/resume-FF8800?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1MUuzO0BZg-lMZ09woXaPpTZ3ZGusrkrn/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/portfolio-AF8800?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1azJck9IisNF5gVe4dF-Bd7vT8kJvQTe-/view?usp=drive_link)
 
 ## Projects
 
